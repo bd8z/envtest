@@ -1,1 +1,8 @@
-numpy
+# no version
+numpy 
+
+# with version
+pandas == 2.0.2 
+
+# with major version
+matplotlib == 3.* 
